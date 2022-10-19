@@ -1,2 +1,2 @@
 # to-do-list
-Pierwsza aplikacja w PHP z wykorzystaniem technologii Bootstrap
+First app in PHP with Bootstrap technology
